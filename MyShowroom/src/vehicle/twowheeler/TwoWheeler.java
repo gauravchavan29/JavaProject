@@ -9,4 +9,9 @@ public class TwoWheeler extends Vehicle
 	{
 		System.out.println("\nFeel you are driving Two wheeler");
 	}
+
+	public void brandname()
+	{
+	
+	}
 }

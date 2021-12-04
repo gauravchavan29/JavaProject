@@ -5,7 +5,7 @@ public class Honda extends TwoWheeler
 {
 	public void brandname()
 	{
-		System.out.println("Honda");
+		System.out.println("HONDA");
 	}
 
 }

@@ -3,7 +3,8 @@ import vehicle.twowheeler.bajaj.*;
 
 public class PulsarRs200 extends Bajaj
 {
-	double price = 168000;
+	public String name = "Pulsar RS-200";
+	public double price = 168000;
 	
 	public void avg()
 	{

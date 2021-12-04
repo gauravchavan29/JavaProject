@@ -3,7 +3,8 @@ import vehicle.twowheeler.bajaj.*;
 
 public class Dominar extends Bajaj
 {
-	double price = 213000;
+	public String name = "DOMINAR";
+	public double price = 213000;
 	
 	public void avg()
 	{
